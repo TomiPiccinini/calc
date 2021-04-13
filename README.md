@@ -1,7 +1,7 @@
 # Número de grupo: x
 # Integrantes: 
     ♦ Piccinini Tomas
-
+    ♦ Fiorotto Leandro
 
 # Calc
 
