@@ -21,13 +21,15 @@ function mul(a, b) {
 }
 
 function div(a, b) {
-    if (b>0) { 
-        return a / b;
+    if (b==0) { 
+        console.log("Error: div by 0");
      } else { 
-      console.log("Error: div by 0");	
+      	return a/b;
      }
 }
 
-function pow(a, b) {}
+function pow(a, b) {
+    return Math.pow(a,b);
+}
 
 module.exports = fns;
