@@ -2,6 +2,8 @@
 # Integrantes: 
     ♦ Piccinini Tomas
     ♦ Fiorotto Leandro
+    ♦ Ruf Carolina 
+
 
 # Calc
 
