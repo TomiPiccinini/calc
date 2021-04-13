@@ -1,3 +1,8 @@
+# Número de grupo: x
+# Integrantes: 
+    ♦ Piccinini Tomas
+
+
 # Calc
 
 Calculadora con funciones simples.
