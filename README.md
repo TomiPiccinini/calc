@@ -3,6 +3,7 @@
     ♦ Piccinini Tomas
     ♦ Fiorotto Leandro
     ♦ Ruf Carolina 
+    ♦ Perrino Lucas
 
 
 # Calc
