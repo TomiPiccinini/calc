@@ -21,8 +21,8 @@ function mul(a, b) {
 }
 
 function div(a, b) {
-    if (b==0) { 
-        console.log("Error: div by 0");
+    if (b===0) { 
+        return "Error: div by 0";
      } else { 
       	return a/b;
      }
